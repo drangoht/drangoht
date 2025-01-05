@@ -1,5 +1,13 @@
 ### Hi there 👋
 - 🔭 I’m currently working on multiple technical stack
+
+![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+These stats are generated with [this tool](https://github.com/Connor9994/GitHub-Language-Stats)
 <!--
 **drangoht/drangoht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
