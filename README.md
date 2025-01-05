@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-These stats are generated with [this tool](https://github.com/Connor9994/GitHub-Language-Stats)
+These stats are generated with [this tool](https://github.com/jstrieb/github-stats)
 <!--
 **drangoht/drangoht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
