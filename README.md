@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on multiple technical stack
+- I'm AI enthousiast making games and lot of stuff with Claude Code
 
 ![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/drangoht/github-stats/master/generated/overview.svg#gh-light-mode-only)
